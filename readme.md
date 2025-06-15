@@ -28,7 +28,15 @@
 
 ---
 
+## Github Stats 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jame81&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jame81&theme=tokyonight&hide_border=false" align="center" /></div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jame81&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://komarev.com/ghpvc/?username=Jame81&color=grey)
+![](https://visitcount.itsvg.in/api?id=Jame81&icon=2&color=0)
+
+
 ### 📫 Contact
-📍 Kerala  
 📧 [jamesmaryolivia@gmail.com](mailto:jamesmaryolivia@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/olivia-mary-james-533a98268) 
