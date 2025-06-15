@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [OLIVIA MARY JAMES](https://oliviamj.vercel.app/) 👋</h1>
+# Hi, I'm [OLIVIA MARY JAMES](https://oliviamj.vercel.app/) 👋
 <p align="center">Learning to build what I once Googled !!!</p>
 
 ---
